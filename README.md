@@ -10,12 +10,21 @@ We are mainly focusing on teaching you how you can use Linux Shell Scripting to 
 
 #### Lessons Includes:
 **- Simple Scripts.**
+
 **- Redirections**
+
 **- What are pipes**
+
 **- Using Variables**
+
 **- Conditions in Bash.**
+
 **- Using Loops**
+
 **- Functions and Case Expression**
+
 **- Accepting user input**
+
 **- Visiting some more bash scripts**
+
 **- Debugging - When something really goes wrong.**
